@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@polymer/polymer": "next",
+    "@polymer/iron-demo-helpers": "next"
+  }
+}

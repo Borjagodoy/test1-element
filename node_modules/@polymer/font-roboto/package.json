@@ -1,0 +1,22 @@
+{
+  "name": "@polymer/font-roboto",
+  "flat": true,
+  "version": "3.0.0-pre.1",
+  "description": "An HTML import for Roboto",
+  "contributors": [
+    "The Polymer Authors"
+  ],
+  "keywords": [
+    "font",
+    "roboto"
+  ],
+  "main": "roboto.html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PolymerElements/font-roboto.git"
+  },
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/PolymerElements/font-roboto/",
+  "dependencies": {},
+  "devDependencies": {}
+}
